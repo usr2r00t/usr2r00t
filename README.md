@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ✌🏽
 
 - 🏴‍ I'm Ethical Hacker & Pentester
 - 👤 I'm White hat ⚪ in Red Team 🔴
