@@ -2,5 +2,4 @@
 
 - 🏴‍ Ethical Hacker & Pentester
 - 🔴 Red Teamer
-- 🖥️ Web-Developper
-
+- 🖥️ Web & App Developper
